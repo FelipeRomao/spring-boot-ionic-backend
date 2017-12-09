@@ -1,4 +1,4 @@
-package com.feliperomao.cursomc.resources;
+package com.feliperomao.cursomc.services;
 
 import java.util.List;
 
